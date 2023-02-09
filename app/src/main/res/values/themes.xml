@@ -13,4 +13,9 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="RaiseButton" parent="TextAppearance.AppCompat.Widget.Button.Colored">
+        <item name="background">@color/teal_200</item>
+        <item name="backgroundTint">@color/teal_200</item>
+    </style>
 </resources>

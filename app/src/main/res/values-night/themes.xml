@@ -13,4 +13,8 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="RaiseButton" parent="TextAppearance.AppCompat.Widget.Button.Colored">
+        <item name="colorPrimary">@color/teal_200</item>
+    </style>
 </resources>
